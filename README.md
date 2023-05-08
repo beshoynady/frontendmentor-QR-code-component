@@ -1,4 +1,6 @@
 # Frontend Mentor - QR code component
+## visit site
+https://beshoynady.github.io/frontendmentor-QR-code-component/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
